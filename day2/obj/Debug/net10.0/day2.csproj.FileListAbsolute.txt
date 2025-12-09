@@ -1,0 +1,15 @@
+/home/mechanist/Programming/aoc-2025/day2/bin/Debug/net10.0/day2
+/home/mechanist/Programming/aoc-2025/day2/bin/Debug/net10.0/day2.deps.json
+/home/mechanist/Programming/aoc-2025/day2/bin/Debug/net10.0/day2.runtimeconfig.json
+/home/mechanist/Programming/aoc-2025/day2/bin/Debug/net10.0/day2.dll
+/home/mechanist/Programming/aoc-2025/day2/bin/Debug/net10.0/day2.pdb
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.AssemblyInfoInputs.cache
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.AssemblyInfo.cs
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.csproj.CoreCompileInputs.cache
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.sourcelink.json
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.dll
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/refint/day2.dll
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.pdb
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/day2.genruntimeconfig.cache
+/home/mechanist/Programming/aoc-2025/day2/obj/Debug/net10.0/ref/day2.dll
